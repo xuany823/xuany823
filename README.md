@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/xuan-wang-673ba382/?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin.com/in/xuan-wang-673ba382/?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
