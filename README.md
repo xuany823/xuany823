@@ -45,8 +45,6 @@ My background combines financial domain knowledge with modern data science tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB4034?style=for-the-badge&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-6E40C9?style=for-the-badge&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3E5C76?style=for-the-badge&logo=python&logoColor=white)
 
 **Data Visualization**
