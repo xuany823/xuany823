@@ -16,19 +16,19 @@
 
 ## 💼 About Me
 
-I'm an Applied Data Science graduate student with nearly a decade of experience in **financial services, client operations, compliance support, CRM administration, and business reporting**.
-
-My background combines financial domain knowledge with modern data science tools — Python, SQL, machine learning, data visualization, and AI-powered analytics. I'm especially interested in building practical data solutions for **financial services, business intelligence, predictive modeling, and AI-assisted decision-making**.
+🎓 **M.S. in Applied Data Science (MS-ADS)** — *University of San Diego*
+💡 Graduate data scientist passionate about **ML, predictive analytics, NLP, and data engineering**
+📈 Grounded in **9+ years of financial services** business experience 
 
 ---
 
 ## 🔍 Current Focus
 
-- 🤖 Building **machine learning and AI projects** from data pipelines to interpretable models
-- 📊 Develop **predictive analytics** through research and project-based work across health, retail, and consumer behavior
-- 💰 Exploring **financial analytics**, model interpretability, and **LLM-powered workflows**
-- 📈 Strengthening skills in Python, SQL, **XGBoost, SHAP**, and data storytelling
+- 🤖 Building **ML and AI portfolio projects** across health, retail, and consumer behavior
+- ✨ Exploring **LLM-powered workflows** and AI-assisted financial analytics
+- 📖 Sharpening **data storytelling** — turning analysis into decisions
 - 🎯 Preparing for **Data Scientist, Analytics Consultant, and AI/ML** roles
+  
 
 ---
 
@@ -96,17 +96,17 @@ My background combines financial domain knowledge with modern data science tools
 
 I bring both **business context** and **technical execution**.
 
-Before transitioning into data science, I worked directly with financial advisors, clients, compliance workflows, reporting systems, and operational data (Salesforce, eMoney, CRM platforms). This experience helps me understand not only *how* to build models, but *how data products support real business decisions*.
+Before transitioning into data science, I worked directly with financial advisors, clients, compliance workflows, reporting systems, and operational data platforms. This experience helps me understand not only *how* to build models, but *how data products support real business decisions*.
 
-My goal is to bridge **financial services, analytics, and AI** to create solutions that are practical, interpretable, and business-focused.
+My goal is to bridge **business and data science** — creating solutions that are practical, interpretable, and built for real decisions, in any domain where data can change the outcome.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently open to opportunities in **Data Science • Financial Analytics • Analytics Consulting • Machine Learning • AI-powered business solutions**
+I'm currently open to opportunities in **Data Science • Machine Learning • Analytics Consulting • AI Solutions** — across finance, health, retail, and beyond
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/xuan-wang-673ba382/)"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="xuan823@yahoo.com"><img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
