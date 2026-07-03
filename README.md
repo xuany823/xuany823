@@ -24,7 +24,8 @@ My background combines financial domain knowledge with modern data science tools
 
 ## 🔍 Current Focus
 
-- 🤖 Building **machine learning and AI projects** for my data science portfolio
+- 🤖 Building **machine learning and AI projects** from data pipelines to interpretable models
+- 📊 Develop **predictive analytics** through research and project-based work across health, retail, and consumer behavior
 - 💰 Exploring **financial analytics**, model interpretability, and **LLM-powered workflows**
 - 📈 Strengthening skills in Python, SQL, **XGBoost, SHAP**, and data storytelling
 - 🎯 Preparing for **Data Scientist, Analytics Consultant, and AI/ML** roles
