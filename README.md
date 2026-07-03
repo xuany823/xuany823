@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Xuan (Michelle) Wang.👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Applied+Data+Scientist;Financial+Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Turning+complex+data+into+actionable+insights" alt="Typing SVG" />
-</p>
+
 
 <h3 align="center">
 「 Applied Data Science graduate student — University of San Diego 」<br>
