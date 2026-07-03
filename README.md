@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Xuan (Michelle) Wang.👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Applied+Data+Scientist;Financial+Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Turning+complex+data+into+actionable+insights" alt="Typing SVG" />
+</p>
 
 
-<h3 align="center">
-「 Applied Data Science graduate student — University of San Diego 」<br>
-「 9+ years in financial services, operations & business analytics 」<br>
-「 Bridging finance, analytics, and AI for practical business solutions 」
-</h3>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/xuan-wang-673ba382/?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
