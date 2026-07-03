@@ -107,6 +107,6 @@ My goal is to bridge **business and data science** — creating solutions that a
 I'm currently open to opportunities in **Data Science • Machine Learning • Analytics Consulting • AI Solutions** — across finance, health, retail, and beyond
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/xuan-wang-673ba382/)"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/xuan-wang-673ba382/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="xuan823@yahoo.com"><img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
