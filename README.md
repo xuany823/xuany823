@@ -108,5 +108,5 @@ I'm currently open to opportunities in **Data Science • Machine Learning • A
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xuan-wang-673ba382/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="xuan823@yahoo.com"><img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:xuan823@yahoo.com"><img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
