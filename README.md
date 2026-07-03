@@ -4,12 +4,10 @@
   < src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Applied+Data+Scientist;Financial+Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Turning+complex+data+into+actionable+insights" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/xuan-wang-673ba382/?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/xuan-wang-673ba382/?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+
 </p>
 
 ---
