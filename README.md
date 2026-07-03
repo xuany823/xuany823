@@ -90,15 +90,7 @@
   <img src="https://streak-stats.demolab.com?user=xuany823&hide_border=true" height="160"/>
 </p>
 
----
 
-## 💡 What Makes My Background Different
-
-Before transitioning into data science, I worked directly with financial advisors, clients, compliance workflows, reporting systems, and operational data platforms. This experience helps me understand not only *how* to build models, but *how data products support real business decisions*.
-
-My goal is to bridge **business and data science** — creating solutions that are practical, interpretable, and built for real decisions, in any domain where data can change the outcome.
-
----
 
 ## 🤝 Let's Connect
 
