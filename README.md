@@ -16,9 +16,9 @@
 
 ## 💼 About Me
 
-🎓 **M.S. in Applied Data Science (MS-ADS)** — *University of San Diego*
-💡 Graduate data scientist passionate about **ML, predictive analytics, NLP, and data engineering**
-📈 Grounded in **9+ years of financial services** business experience 
+🎓 **M.S. in Applied Data Science (MS-ADS)** — *University of San Diego*<br>
+💡 Graduate data scientist passionate about **ML, predictive analytics, NLP, and data engineering**<br>
+📈 Grounded in **9+ years of financial services** business experience<br> 
 
 ---
 
